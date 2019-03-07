@@ -1,1 +1,1 @@
-# JS_101
+Exercices sur les bases de Javascript
